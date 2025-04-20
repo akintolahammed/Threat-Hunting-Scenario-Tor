@@ -108,7 +108,8 @@ DeviceNetworkEvents
 | project Timestamp, DeviceName, InitiatingProcessAccountName, ActionType, RemoteIP, RemotePort,InitiatingProcessFolderPath,InitiatingProcessFileName
 |order by Timestamp desc 
 ```
-![Screenshot 2025-01-08 185725](https://github.com/user-attachments/assets/491fc220-659c-4525-943d-fe1a961dccea)
+<img width="910" alt="image" src="https://github.com/user-attachments/assets/d3de1a3c-4793-4692-bc38-9b552279b501" />
+
 ---
 
 ## Chronological Event Timeline 
