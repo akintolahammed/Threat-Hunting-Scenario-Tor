@@ -50,7 +50,8 @@ DeviceFileEvents
 |order by Timestamp desc 
 |project Timestamp, DeviceName,ActionType,FileName,FolderPath,SHA256, Account = InitiatingProcessAccountName
 ```
-![Screenshot 2025-01-08 183148](https://github.com/user-attachments/assets/57744359-cdca-4f9f-9fbf-762543884eb4)
+<img width="625" alt="image" src="https://github.com/user-attachments/assets/6932f95f-5a1c-4d18-b6e6-0f5142263dab" />
+
 ---
 
 ### 2. Searched the `DeviceProcessEvents` Table
